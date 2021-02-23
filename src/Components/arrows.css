@@ -1,0 +1,8 @@
+.arrow{
+margin-top: 40px;
+display: flex;
+}
+.arrow img{
+    width:40px;
+    margin-right:25px;
+}

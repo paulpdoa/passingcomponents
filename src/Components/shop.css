@@ -1,0 +1,40 @@
+.shop{
+    display: flex;
+    flex-flow: row;
+}
+.order{
+    width:45%;
+    margin-bottom:10px;
+}
+input{
+    width: 200px;
+    height:25px;
+    margin:5px;
+    border-style:none;
+    border-radius: 5px;
+    outline: none;
+    text-align: center;
+}
+.shirts img{
+    width:130px;
+    height:150px;
+    
+}
+.products{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    height: 250px;  
+    
+}
+.shirts{
+    height: 40%;
+    margin:5px;
+}
+.shirts input{
+    width:25px;
+}
+.sub{
+    width:100px;
+    background: linear-gradient(45deg,#87adfe,#ff77cd);
+}
